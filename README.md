@@ -1,1 +1,1 @@
-This is a Simple Dice Game , shich can be play by just refreshing the page 
+This is a Simple Dice Game , which can be play by just refreshing the page 
